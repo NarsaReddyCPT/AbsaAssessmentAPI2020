@@ -1,6 +1,3 @@
-# "RestAPI Automatiion" BDD with "Cucumber" and "Serenity"
-* This project is an example of how to setup API tests using BDD approach with Serenity framework
-
 ## Project Description:
 * Project setup with Gson and Serenity Rest
 * Written in Java with Junit, Cucumber & Maven
